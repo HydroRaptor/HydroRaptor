@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HydroRaptor
 - 👀 I’m interested in programming languages which are blazingly fast!
 - 🌱 I’m currently learning Flutter
-<!--- -💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me arthgohel288@gmail.com
+<!--- -💞️ I’m looking to collaborate on ... --->
 
 <!---
 HydroRaptor/HydroRaptor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
