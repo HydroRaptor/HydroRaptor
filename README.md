@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HydroRaptor
 - 👀 I’m interested in programming languages which are blazingly fast!
-- 🌱 I’m currently learning ReactJS, Java, Machine Learning, AI, Rust
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Flutter
+<!--- -💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me arthgohel288@gmail.com
 
 <!---
